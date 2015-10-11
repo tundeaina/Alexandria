@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Alexandria</string>
+
+    <!-- Menu Items -->
+    <string name="books" translatable="false">List of Books</string>
+    <string name="scan" translatable="false">Scan/Add a Book</string>
+    <string name="about" translatable="false">About this App</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="scan_button" translatable="false">Scan</string>
+    <string name="input_hint" translatable="false">Insert ISBN-13. Digits only.</string>
+    <string name="book_cover" translatable="false">Bookcover</string>
+    <string name="book_subtitle" translatable="false">Book Sub-title</string>
+
+
+    <string name="ok_button" translatable="false">Next</string>
+    <string name="cancel_button" translatable="false">Cancel</string>
+    <string name="not_found" translatable="false">No Book found</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="delete" translatable="false">Delete Book</string>
+    <string name="pref_startScreen" translatable="false">Select Startscreen</string>
+    <string name="title_activity_settings" translatable="false">Settings</string>
+    <string name="action_share" translatable="false">Share</string>
+    <string name="back_button" translatable="false">go back</string>
+    <string name="share_text" translatable="false">A must read book:&#160;</string>
+    <string name="no_connectivity" translatable="false">Please Check you Network or WiFi Connectivity</string>
+    <string name="scan_book" translatable="false">scan book</string>
+    <string name="cancel_book" translatable="false">cancel book</string>
+    <string name="save_book" translatable="false">save book</string>
+    <string name="barcode_tracker" translatable="false">barcode tracker</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_text" translatable="false">This application gets book information from a Google API. All titles, cover images, and author information come from there.
+    The original version of this app was built by Sascha Jaschke, and a modified version is given to students in the Udacity Android Nanodegree program. </string>
+</resources>
